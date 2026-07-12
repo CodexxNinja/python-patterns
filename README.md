@@ -2,7 +2,7 @@
 
 ## What is Python?
 
-Python is a high-level, interpreted, object-oriented, and general-purpose programming language. It was created by **Guido van Rossum** and first released in **1991**. Python emphasizes code readability with a simple and easy-to-understand syntax, making it one of the most popular programming languages in the world.
+Python is a high-levelm, interpreted, object-oriented, and general-purpose programming language. It was created by **Guido van Rossum** and first released in **1991**. Python emphasizes code readability with a simple and easy-to-understand syntax, making it one of the most popular programming languages in the world.
 
 Python is widely used in:
 
