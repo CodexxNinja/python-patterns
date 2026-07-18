@@ -1,4 +1,4 @@
-# Python - Complete Introduction
+# Python - Complete Introduction and Pattern Programs
 
 ## What is Python?
 
